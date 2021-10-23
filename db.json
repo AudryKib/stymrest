@@ -1,6 +1,5 @@
-{
-    "_embedded" : {
-      "stems" : [ {
+
+     [ {
         "name" : "Konklux",
         "creationDate" : "2020-12-08",
         "numberOfTracks" : "75",
@@ -180,6 +179,6 @@
             "href" : "http://localhost:8080/api-stym3/stems/10/users"
           }
         }
-      } ]
-    }
-  }
+      } 
+    ]
+    
