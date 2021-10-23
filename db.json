@@ -1,95 +1,77 @@
 
     
+
      [ {
         "name" : "Konklux",
         "creationDate" : "2020-12-08",
         "numberOfTracks" : "75",
         "stym" : "EratQuisqueErat.ppt",
         "artWork" : "R.drawable.cds",
-        "description" : "Chorioret les destr NEC",
-        "_links" : {
-          "self" : {
-            "href" : "http://localhost:8080/api-stym3/stems/1"
-          },
-          "stem" : {
-            "href" : "http://localhost:8080/api-stym3/stems/1"
-          },
-          "users" : {
-            "href" : "http://localhost:8080/api-stym3/stems/1/users"
-          }
-        }
+        "description" : "Chorioret les destr NEC"
       }, {
         "name" : "Aerified",
         "creationDate" : "2021-08-16",
         "numberOfTracks" : "56",
         "stym" : "AIpsum.mov",
         "artWork" : "R.drawable.erik_mclean_9y1ctvke1iy_unsplash",
-        "description" : "Ext version-assist deliv",
-        "_links" : {
-          "self" : {
-            "href" : "http://localhost:8080/api-stym3/stems/2"
-          },
-          "stem" : {
-            "href" : "http://localhost:8080/api-stym3/stems/2"
-          },
-          "users" : {
-            "href" : "http://localhost:8080/api-stym3/stems/2/users"
-          }
-        }
+        "description" : "Ext version-assist deliv"
       }, {
         "name" : "Gembucket",
         "creationDate" : "2021-08-12",
         "numberOfTracks" : "48",
         "stym" : "QuisOdioConsequat.mpeg",
         "artWork" : "R.drawable.lee_campbell_4f_kk_ayf64_unsplash",
-        "description" : "Lacrimal gland biopsy",
-        "_links" : {
-          "self" : {
-            "href" : "http://localhost:8080/api-stym3/stems/3"
-          },
-          "stem" : {
-            "href" : "http://localhost:8080/api-stym3/stems/3"
-          },
-          "users" : {
-            "href" : "http://localhost:8080/api-stym3/stems/3/users"
-          }
-        }
+        "description" : "Lacrimal gland biopsy"
       }, {
         "name" : "Fixflex",
         "creationDate" : "2021-02-23",
         "numberOfTracks" : "44",
         "stym" : "Rhoncus.txt",
         "artWork" : "R.drawable.mr_zero_ien0d5tlrqi_unsplash",
-        "description" : "Bil fem hern repair-grft",
-        "_links" : {
-          "self" : {
-            "href" : "http://localhost:8080/api-stym3/stems/4"
-          },
-          "stem" : {
-            "href" : "http://localhost:8080/api-stym3/stems/4"
-          },
-          "users" : {
-            "href" : "http://localhost:8080/api-stym3/stems/4/users"
-          }
-        }
+        "description" : "Bil fem hern repair-grft"
       }, {
         "name" : "Job",
         "creationDate" : "2021-08-26",
         "numberOfTracks" : "100",
         "stym" : "CurabiturGravida.mp3",
         "artWork" : "R.drawable.lee_campbell_4f_kk_ayf64_unsplash",
-        "description" : "Induct labor-rupt memb",
-        "_links" : {
-          "self" : {
-            "href" : "http://localhost:8080/api-stym3/stems/5"
-          },
-          "stem" : {
-            "href" : "http://localhost:8080/api-stym3/stems/5"
-          },
-          "users" : {
-            "href" : "http://localhost:8080/api-stym3/stems/5/users"
-          }
-        }
-      }
-    ]
+        "description" : "Induct labor-rupt memb"
+      }, {
+        "name" : "Duobam",
+        "creationDate" : "2020-11-16",
+        "numberOfTracks" : "45",
+        "stym" : "EnimSit.tiff",
+        "artWork" : "R.drawable.lee_campbell_4f_kk_ayf64_unsplash",
+        "description" : "Osteoclasis-chest cage"
+      }, {
+        "name" : "Wrapsafe",
+        "creationDate" : "2021-01-22",
+        "numberOfTracks" : "92",
+        "stym" : "EratNullaTempus.mov",
+        "artWork" : "R.drawable.mr_zero_ien0d5tlrqi_unsplash",
+        "description" : "Urethral meatoplasty"
+      }, {
+        "name" : "Ventosanzap",
+        "creationDate" : "2021-08-03",
+        "numberOfTracks" : "48",
+        "stym" : "RutrumNulla.xls",
+        "artWork" : "R.drawable.erik_mclean_9y1ctvke1iy_unsplash",
+        "description" : "Replace small bowel tube"
+      }, {
+        "name" : "Lotlux",
+        "creationDate" : "2020-11-18",
+        "numberOfTracks" : "39",
+        "stym" : "IpsumPraesentBlandit.pdf",
+        "artWork" : "R.drawable.mr_zero_ien0d5tlrqi_unsplash",
+        "description" : "Splenotomy"
+      }, {
+        "name" : "Fixflex",
+        "creationDate" : "2021-09-14",
+        "numberOfTracks" : "26",
+        "stym" : "SitAmetNulla.pdf",
+        "artWork" : "R.drawable.cds",
+        "description" : "Electrocochleography"
+      } ]
+    
+
     
